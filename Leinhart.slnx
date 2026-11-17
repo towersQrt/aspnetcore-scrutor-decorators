@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Leinhart.Web/Leinhart.Web.csproj" />
+  </Folder>
+</Solution>
